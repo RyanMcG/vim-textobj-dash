@@ -26,6 +26,13 @@ Or you can unzip it in your `~/.vim` directory. The plugin depends on the awesom
 [kana](https://github.com/kana). So you need to install it in order to use
 this plugin.
 
+Credit
+------
+
+All credit goes to [Luca Pette](/lucapette) and [kana](/kana). This plugin is a
+basic rip off of [vim-textobj-underscore](//lucapette/vim-textobj-underscore)
+where all underscores (`-`) are changed to dashes (`-`).
+
 Copyright
 ---------
 
