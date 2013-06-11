@@ -29,9 +29,10 @@ this plugin.
 Credit
 ------
 
-All credit goes to [Luca Pette](/lucapette) and [kana](/kana). This plugin is a
-basic rip off of [vim-textobj-underscore](//lucapette/vim-textobj-underscore)
-where all underscores (`-`) are changed to dashes (`-`).
+All credit goes to [Luca Pette](https://github.com/lucapette) and
+[kana](https://github.com/kana). This plugin is a basic rip off of
+[vim-textobj-underscore](https://github.com/lucapette/vim-textobj-underscore)
+where all underscores (`_`) are changed to dashes (`-`).
 
 Copyright
 ---------
