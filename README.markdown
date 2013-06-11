@@ -1,16 +1,16 @@
 Introduction
 ------------
 
-The textobj-underscore plugin provides two new text-objects which are
-triggered by `a_` and `i_` respectively. You can use them when you have to
+The textobj-dash plugin provides two new text-objects which are
+triggered by `a-` and `i-` respectively. You can use them when you have to
 deal with the following type of words:
 
-- foo\_bar\_baz
+- foo-baz-bar
 
 Now, suppose you have to change bar to qux (\* for cursor position). You can
 do the following:
 
-`foo_b*ar_bar` and type `ci_` to get `foo_*_bar`. Or you can type `da_` to get
+`foo-b*az-bar` and type `ci-` to get `foo-*-bar`. Or you can type `da-` to get
 `foobar`
 
 Installation
@@ -29,4 +29,4 @@ this plugin.
 Copyright
 ---------
 
-Copyright (c) Luca Pette. Distributed under the same terms as Vim itself.
+Copyright © Ryan McGowan. Distributed under the same terms as Vim itself.
